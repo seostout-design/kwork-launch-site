@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#0b1020"/>
+  <rect x="90" y="60" width="1020" height="780" rx="34" fill="#111933" stroke="#2e4e88"/>
+  <rect x="130" y="110" width="940" height="680" rx="26" fill="#e9f1ff"/>
+  <rect x="130" y="110" width="940" height="88" rx="26" fill="#2a6df6"/>
+  <text x="170" y="164" font-family="Arial" font-size="34" fill="white" font-weight="700">Wellcoom Demo Bot</text>
+  <rect x="180" y="240" width="370" height="88" rx="22" fill="#d8e6ff"/>
+  <text x="205" y="292" font-family="Arial" font-size="28" fill="#1b2a4d">Выберите язык / Choose language</text>
+  <rect x="650" y="240" width="250" height="72" rx="20" fill="#2a6df6"/>
+  <text x="730" y="286" font-family="Arial" font-size="28" fill="white" text-anchor="middle">Русский</text>
+  <rect x="650" y="340" width="250" height="72" rx="20" fill="#21a366"/>
+  <text x="775" y="386" font-family="Arial" font-size="28" fill="white" text-anchor="middle">English</text>
+  <rect x="180" y="450" width="720" height="250" rx="24" fill="#ffffff" stroke="#cad9ff"/>
+  <text x="215" y="500" font-family="Arial" font-size="30" fill="#16284d" font-weight="700">Demo features</text>
+  <text x="215" y="548" font-family="Arial" font-size="26" fill="#243b67">• RU / EN interface</text>
+  <text x="215" y="592" font-family="Arial" font-size="26" fill="#243b67">• Services menu</text>
+  <text x="215" y="636" font-family="Arial" font-size="26" fill="#243b67">• Email + Telegram contact</text>
+  <text x="215" y="680" font-family="Arial" font-size="26" fill="#243b67">• Demo payment flow</text>
+  <text x="90" y="40" font-family="Arial" font-size="26" fill="#8db8ff">Telegram bot showcase screen</text>
+</svg>
